@@ -43,7 +43,7 @@ In order to create an accurate topo map, I could use your help.
 
 As an example, you could navigate to places you don't often visit, or try climbing as many summits as you can (beware of the nasty sprained ankles).
 
-Once you mapped a lot of a region, please create a [new issue](https://github.com/loicNorgeot/THE_LONG_DARK/issues) with your coords.txt file appended, and specifying the region you mapped. I will add them to the existing base creating the maps and won't forget to thank you!
+Once you mapped a lot of a region, please create a [new issue](https://github.com/loicNorgeot/THE_LONG_DARK/issues) with your coords.txt file appended, selecting the "Let me Help" label and specifying the region you mapped. I will add them to the existing base creating the maps and won't forget to thank you!
 
 Here are the places I've currently been to in Timberwolf Mountain. The idea is to left blank as little as possible of this map:
 
